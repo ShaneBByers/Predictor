@@ -4,3 +4,6 @@
 [submodule "PredictorWebServer"]
 	path = PredictorWebServer
 	url = https://github.com/ShaneBByers/PredictorWebServer
+[submodule "PredictorGeneral"]
+	path = PredictorGeneral
+	url = https://github.com/ShaneBByers/PredictorGeneral
