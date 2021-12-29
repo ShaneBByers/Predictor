@@ -1,0 +1,3 @@
+[submodule "PredictorServer"]
+	path = PredictorServer
+	url = https://github.com/ShaneBByers/PredictorServer
